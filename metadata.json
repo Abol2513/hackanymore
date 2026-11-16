@@ -1,0 +1,6 @@
+{
+  "name": "HEXFORGE",
+  "description": "Rootless-first bilingual offline Android game modding suite with container virtualization, memory lab, static APK patcher, deep inspector, file commander, rollback vault, and Gemini AI mentor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

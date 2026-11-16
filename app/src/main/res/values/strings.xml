@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HEXFORGE</string>
+    <string name="tagline_subtitle">Rootless Offline Game Modding Suite</string>
+    <string name="onboarding_legal_title">Offline Ownership &amp; Ethics Notice</string>
+    <string name="onboarding_legal_body">HEXFORGE operates exclusively on offline single-player games installed on your own device for personal, private, non-commercial use. Online, competitive, and server-authoritative games are strictly refused by Gatekeeper (PD-1). No copyrighted game binaries are ever distributed.</string>
+    <string name="promise_1">You tick what you want unlimited — the engine figures out HOW.</string>
+    <string name="promise_2">No root. Shizuku optional. Your games, your device, your rules.</string>
+    <string name="promise_3">Every single step is explained, reported, and reversible.</string>
+    <string name="promise_4">OFFLINE games only. Online/competitive targets are refused, always.</string>
+    <string name="accept_and_enter">Accept &amp; Enter Forge</string>
+
+    <string name="nav_targets">Targets</string>
+    <string name="nav_wishbuilder">WishBuilder</string>
+    <string name="nav_lab">Lab</string>
+    <string name="nav_files">Files</string>
+    <string name="nav_oracle">Oracle</string>
+
+    <string name="chronicle_bar_title">Chronicle Live Stream</string>
+    <string name="chronicle_empty">No Chronicle events recorded yet.</string>
+    <string name="vault_rollback">Rollback</string>
+    <string name="vault_protected">Protected</string>
+    <string name="gatekeeper_check">Verify Clearance</string>
+</resources>

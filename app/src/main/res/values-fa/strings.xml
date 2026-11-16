@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HEXFORGE</string>
+    <string name="tagline_subtitle">مجموعهٔ بدون روت مهندسی و تغییر بازی‌های آفلاین</string>
+    <string name="onboarding_legal_title">اطلاعیهٔ مالکیت شخصی و مرز اخلاقی</string>
+    <string name="onboarding_legal_body">HEXFORGE منحصراً برای بازی‌های آفلاین و تک‌نفرهٔ نصب‌شده روی دستگاه شخصی شما جهت استفادهٔ خصوصی و غیرتجاری طراحی شده است. بازی‌های آنلاین، رقابتی و سرورمحور همواره توسط گیت‌کیپر رد می‌شوند (PD-1). هیچ فایل باینری دارای حق‌نشر توزیع نمی‌شود.</string>
+    <string name="promise_1">شما تیک می‌زنید چه چیزی نامحدود شود — موتور راه حل را پیدا می‌کند.</string>
+    <string name="promise_2">بدون روت. شیزوکو اختیاری. بازی شما، دستگاه شما، قوانین شما.</string>
+    <string name="promise_3">هر مرحله با شفافیت کامل شرح و گزارش می‌شود و بازگشت‌پذیر است.</string>
+    <string name="promise_4">فقط بازی‌های آفلاین. اهداف آنلاین/رقابتی همیشه رد می‌شوند.</string>
+    <string name="accept_and_enter">پذیرش و ورود به فورج</string>
+
+    <string name="nav_targets">اهداف</string>
+    <string name="nav_wishbuilder">ویش‌بیلدر</string>
+    <string name="nav_lab">آزمایشگاه</string>
+    <string name="nav_files">فایل‌ها</string>
+    <string name="nav_oracle">اوراکل</string>
+
+    <string name="chronicle_bar_title">جریان زندهٔ کرونیکل</string>
+    <string name="chronicle_empty">هنوز رویدادی در کرونیکل ثبت نشده است.</string>
+    <string name="vault_rollback">بازگردانی</string>
+    <string name="vault_protected">محافظت‌شده</string>
+    <string name="gatekeeper_check">بررسی مجوز</string>
+</resources>
